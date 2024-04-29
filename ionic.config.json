@@ -1,0 +1,7 @@
+{
+  "name": "marioJump",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
