@@ -10,7 +10,6 @@ Este jogo foi desenvolvido como parte de um projeto pessoal para aprender e prat
 
 - Controle do Mario através de pressionamento de teclas ou toque na tela.
 - Obstáculos e desafios inspirados no jogo original do Mario.
-- Música de fundo para uma experiência mais imersiva.
 
 ## Como Jogar
 
